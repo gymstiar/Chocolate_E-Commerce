@@ -303,4 +303,4 @@ For support, email: samrayit.nas@gmail.com
 
 ---
 
-<p align="center"> <strong>Made with ❤️ & 🍫</strong><br> Developed by <strong>Gymnastiar</strong> </p> 
+<p align="center"> <strong>Made with ❤️ </strong><br> Developed by <strong>Gymnastiar</strong> </p> 
