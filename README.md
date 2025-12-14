@@ -60,7 +60,7 @@ A modern, full-featured e-commerce platform for premium artisan chocolates built
 
 ```bash
 git clone <repository-url>
-cd E-Commerce-Cokelat
+cd E_Commerce-Cokelat
 ```
 
 ### 2. Install PHP Dependencies
